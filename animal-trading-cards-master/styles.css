@@ -1,1 +1,29 @@
 /* add your CSS here */
+
+body  {
+  border: 1px solid gray;
+  padding: 10px;
+  height: auto;
+  width: 323px;
+  box-shadow: 5px 10px #888888;
+}
+
+.animal_info, img {
+  width: 300px;
+  border: 1px solid gray;
+  margin: 5px;
+  padding: 5px;
+
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+ul li span {
+  font-weight: bold;
+}
+
+ul  {
+  list-style-type: none;
+}
